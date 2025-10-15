@@ -43,4 +43,4 @@ This report demonstrates the design and implementation of a relational database 
 #### To Run SQL Scripts
 1. Download the `.sql` files associted with database and table creation.
 2. Open and run the files in your preferred database management application.
-3. Download and run `.sql` files containing a query of interest.
+3. Download and run `.sql` files containing queries of interest.
